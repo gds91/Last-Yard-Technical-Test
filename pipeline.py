@@ -66,7 +66,7 @@ if __name__ == "__main__":
 
 
 """Code for testing within the IDE"""
-# with open("C:\\Users\\Glen\\Desktop\\pipeline_python_work\\product_data.json") as f:
+# with open(".\\product_data.json") as f:
 #     product_data = json.load(f)
 # order_items = main(product_data, ["yellow", "fuschia"], ["medium", "large"])
 # for item in order_items:
